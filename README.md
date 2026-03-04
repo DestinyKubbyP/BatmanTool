@@ -1,6 +1,6 @@
 # BatmanTool
 
-Hello I am DestinyTakes and this is my in development batman arkam series tool. This allows major game overhauls and the acsess to cheats and fun modifiers.
+Hello I am DestinyTakes and this is my tool for batman arkam series. This allows major game overhauls and the acsess to cheats and fun modifiers.
 This is supported throuhout all the game series. My main goal is to make the game more smooth and add new unique ablities. Ive already dumped many many hours in disecting there game engine.
 They use verison of unreal engine mixed with variants of other engines, but all that is important to me is the base game engine where the major game events are located. Disecting Unreal Engine is very annoying and totaly a horrible idea if your new to this scene.
 If you do not have proper reversing experince this may be very confusing and a horrible dev log for you to read.
